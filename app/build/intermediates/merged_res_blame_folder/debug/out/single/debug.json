@@ -1,0 +1,250 @@
+[
+    {
+        "merged": "C:\\Users\\Admin\\Downloads\\File Tri\\VoiceChanger\\daemon\\7.4\\com.lutech.baseproject.app-merged_res-6:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Admin\\Downloads\\File Tri\\VoiceChanger\\daemon\\7.4\\com.lutech.baseproject.app-main-8:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Downloads\\File Tri\\VoiceChanger\\daemon\\7.4\\com.lutech.baseproject.app-merged_res-6:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Admin\\Downloads\\File Tri\\VoiceChanger\\daemon\\7.4\\com.lutech.baseproject.app-main-8:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Downloads\\File Tri\\VoiceChanger\\daemon\\7.4\\com.lutech.baseproject.app-merged_res-6:\\font_lft_etica_semibold.ttf.flat",
+        "source": "C:\\Users\\Admin\\Downloads\\File Tri\\VoiceChanger\\daemon\\7.4\\com.lutech.baseproject.app-main-8:\\font\\lft_etica_semibold.ttf"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Downloads\\File Tri\\VoiceChanger\\daemon\\7.4\\com.lutech.baseproject.app-merged_res-6:\\font_montserrat_regular.otf.flat",
+        "source": "C:\\Users\\Admin\\Downloads\\File Tri\\VoiceChanger\\daemon\\7.4\\com.lutech.baseproject.app-main-8:\\font\\montserrat_regular.otf"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Downloads\\File Tri\\VoiceChanger\\daemon\\7.4\\com.lutech.baseproject.app-merged_res-6:\\font_sf_pro_medium.ttf.flat",
+        "source": "C:\\Users\\Admin\\Downloads\\File Tri\\VoiceChanger\\daemon\\7.4\\com.lutech.baseproject.app-main-8:\\font\\sf_pro_medium.ttf"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Downloads\\File Tri\\VoiceChanger\\daemon\\7.4\\com.lutech.baseproject.app-merged_res-6:\\drawable_ic_flag_english.png.flat",
+        "source": "C:\\Users\\Admin\\Downloads\\File Tri\\VoiceChanger\\daemon\\7.4\\com.lutech.baseproject.app-main-8:\\drawable\\ic_flag_english.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Downloads\\File Tri\\VoiceChanger\\daemon\\7.4\\com.lutech.baseproject.app-merged_res-6:\\layout_dialog_update_version.xml.flat",
+        "source": "C:\\Users\\Admin\\Downloads\\File Tri\\VoiceChanger\\daemon\\7.4\\com.lutech.baseproject.app-main-8:\\layout\\dialog_update_version.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Downloads\\File Tri\\VoiceChanger\\daemon\\7.4\\com.lutech.baseproject.app-merged_res-6:\\drawable_ic_flag_india.png.flat",
+        "source": "C:\\Users\\Admin\\Downloads\\File Tri\\VoiceChanger\\daemon\\7.4\\com.lutech.baseproject.app-main-8:\\drawable\\ic_flag_india.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Downloads\\File Tri\\VoiceChanger\\daemon\\7.4\\com.lutech.baseproject.app-merged_res-6:\\layout_gnt_small_template_view.xml.flat",
+        "source": "C:\\Users\\Admin\\Downloads\\File Tri\\VoiceChanger\\daemon\\7.4\\com.lutech.baseproject.app-main-8:\\layout\\gnt_small_template_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Downloads\\File Tri\\VoiceChanger\\daemon\\7.4\\com.lutech.baseproject.app-merged_res-6:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Admin\\Downloads\\File Tri\\VoiceChanger\\daemon\\7.4\\com.lutech.baseproject.app-main-8:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Downloads\\File Tri\\VoiceChanger\\daemon\\7.4\\com.lutech.baseproject.app-merged_res-6:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Admin\\Downloads\\File Tri\\VoiceChanger\\daemon\\7.4\\com.lutech.baseproject.app-main-8:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Downloads\\File Tri\\VoiceChanger\\daemon\\7.4\\com.lutech.baseproject.app-merged_res-6:\\drawable_ic_flag_uae.png.flat",
+        "source": "C:\\Users\\Admin\\Downloads\\File Tri\\VoiceChanger\\daemon\\7.4\\com.lutech.baseproject.app-main-8:\\drawable\\ic_flag_uae.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Downloads\\File Tri\\VoiceChanger\\daemon\\7.4\\com.lutech.baseproject.app-merged_res-6:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\Admin\\Downloads\\File Tri\\VoiceChanger\\daemon\\7.4\\com.lutech.baseproject.app-main-8:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Downloads\\File Tri\\VoiceChanger\\daemon\\7.4\\com.lutech.baseproject.app-merged_res-6:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Admin\\Downloads\\File Tri\\VoiceChanger\\daemon\\7.4\\com.lutech.baseproject.app-main-8:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Downloads\\File Tri\\VoiceChanger\\daemon\\7.4\\com.lutech.baseproject.app-merged_res-6:\\drawable_ic_flag_vietnam.png.flat",
+        "source": "C:\\Users\\Admin\\Downloads\\File Tri\\VoiceChanger\\daemon\\7.4\\com.lutech.baseproject.app-main-8:\\drawable\\ic_flag_vietnam.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Downloads\\File Tri\\VoiceChanger\\daemon\\7.4\\com.lutech.baseproject.app-merged_res-6:\\drawable_bg_bound_warning.xml.flat",
+        "source": "C:\\Users\\Admin\\Downloads\\File Tri\\VoiceChanger\\daemon\\7.4\\com.lutech.baseproject.app-main-8:\\drawable\\bg_bound_warning.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Downloads\\File Tri\\VoiceChanger\\daemon\\7.4\\com.lutech.baseproject.app-merged_res-6:\\drawable_bg_btn_subscribe.xml.flat",
+        "source": "C:\\Users\\Admin\\Downloads\\File Tri\\VoiceChanger\\daemon\\7.4\\com.lutech.baseproject.app-main-8:\\drawable\\bg_btn_subscribe.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Downloads\\File Tri\\VoiceChanger\\daemon\\7.4\\com.lutech.baseproject.app-merged_res-6:\\font_sf_pro_bold.ttf.flat",
+        "source": "C:\\Users\\Admin\\Downloads\\File Tri\\VoiceChanger\\daemon\\7.4\\com.lutech.baseproject.app-main-8:\\font\\sf_pro_bold.ttf"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Downloads\\File Tri\\VoiceChanger\\daemon\\7.4\\com.lutech.baseproject.app-merged_res-6:\\font_sf_pro_regular.ttf.flat",
+        "source": "C:\\Users\\Admin\\Downloads\\File Tri\\VoiceChanger\\daemon\\7.4\\com.lutech.baseproject.app-main-8:\\font\\sf_pro_regular.ttf"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Downloads\\File Tri\\VoiceChanger\\daemon\\7.4\\com.lutech.baseproject.app-merged_res-6:\\drawable_ic_tick_language.xml.flat",
+        "source": "C:\\Users\\Admin\\Downloads\\File Tri\\VoiceChanger\\daemon\\7.4\\com.lutech.baseproject.app-main-8:\\drawable\\ic_tick_language.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Downloads\\File Tri\\VoiceChanger\\daemon\\7.4\\com.lutech.baseproject.app-merged_res-6:\\drawable_bg_white_rounded.xml.flat",
+        "source": "C:\\Users\\Admin\\Downloads\\File Tri\\VoiceChanger\\daemon\\7.4\\com.lutech.baseproject.app-main-8:\\drawable\\bg_white_rounded.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Downloads\\File Tri\\VoiceChanger\\daemon\\7.4\\com.lutech.baseproject.app-merged_res-6:\\layout_activity_language.xml.flat",
+        "source": "C:\\Users\\Admin\\Downloads\\File Tri\\VoiceChanger\\daemon\\7.4\\com.lutech.baseproject.app-main-8:\\layout\\activity_language.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Downloads\\File Tri\\VoiceChanger\\daemon\\7.4\\com.lutech.baseproject.app-merged_res-6:\\drawable_ic_baseline_clear_24.xml.flat",
+        "source": "C:\\Users\\Admin\\Downloads\\File Tri\\VoiceChanger\\daemon\\7.4\\com.lutech.baseproject.app-main-8:\\drawable\\ic_baseline_clear_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Downloads\\File Tri\\VoiceChanger\\daemon\\7.4\\com.lutech.baseproject.app-merged_res-6:\\drawable_corner_16.xml.flat",
+        "source": "C:\\Users\\Admin\\Downloads\\File Tri\\VoiceChanger\\daemon\\7.4\\com.lutech.baseproject.app-main-8:\\drawable\\corner_16.xml"
+    },
+    {
+        "merged": "com.lutech.baseproject.app-merged_res-6:/xml_network_security_config.xml.flat",
+        "source": "com.lutech.baseproject.app-main-8:/xml/network_security_config.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Downloads\\File Tri\\VoiceChanger\\daemon\\7.4\\com.lutech.baseproject.app-merged_res-6:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Admin\\Downloads\\File Tri\\VoiceChanger\\daemon\\7.4\\com.lutech.baseproject.app-main-8:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Downloads\\File Tri\\VoiceChanger\\daemon\\7.4\\com.lutech.baseproject.app-merged_res-6:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Admin\\Downloads\\File Tri\\VoiceChanger\\daemon\\7.4\\com.lutech.baseproject.app-main-8:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Downloads\\File Tri\\VoiceChanger\\daemon\\7.4\\com.lutech.baseproject.app-merged_res-6:\\font_montserrat_medium.otf.flat",
+        "source": "C:\\Users\\Admin\\Downloads\\File Tri\\VoiceChanger\\daemon\\7.4\\com.lutech.baseproject.app-main-8:\\font\\montserrat_medium.otf"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Downloads\\File Tri\\VoiceChanger\\daemon\\7.4\\com.lutech.baseproject.app-merged_res-6:\\drawable_ic_flag_germany.png.flat",
+        "source": "C:\\Users\\Admin\\Downloads\\File Tri\\VoiceChanger\\daemon\\7.4\\com.lutech.baseproject.app-main-8:\\drawable\\ic_flag_germany.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Downloads\\File Tri\\VoiceChanger\\daemon\\7.4\\com.lutech.baseproject.app-merged_res-6:\\drawable_bg_btn_goto_store.xml.flat",
+        "source": "C:\\Users\\Admin\\Downloads\\File Tri\\VoiceChanger\\daemon\\7.4\\com.lutech.baseproject.app-main-8:\\drawable\\bg_btn_goto_store.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Downloads\\File Tri\\VoiceChanger\\daemon\\7.4\\com.lutech.baseproject.app-merged_res-6:\\layout_content_ads_loading.xml.flat",
+        "source": "C:\\Users\\Admin\\Downloads\\File Tri\\VoiceChanger\\daemon\\7.4\\com.lutech.baseproject.app-main-8:\\layout\\content_ads_loading.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Downloads\\File Tri\\VoiceChanger\\daemon\\7.4\\com.lutech.baseproject.app-merged_res-6:\\drawable_corner_22.xml.flat",
+        "source": "C:\\Users\\Admin\\Downloads\\File Tri\\VoiceChanger\\daemon\\7.4\\com.lutech.baseproject.app-main-8:\\drawable\\corner_22.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Downloads\\File Tri\\VoiceChanger\\daemon\\7.4\\com.lutech.baseproject.app-merged_res-6:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Admin\\Downloads\\File Tri\\VoiceChanger\\daemon\\7.4\\com.lutech.baseproject.app-main-8:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Downloads\\File Tri\\VoiceChanger\\daemon\\7.4\\com.lutech.baseproject.app-merged_res-6:\\drawable_ic_flag_spain.png.flat",
+        "source": "C:\\Users\\Admin\\Downloads\\File Tri\\VoiceChanger\\daemon\\7.4\\com.lutech.baseproject.app-main-8:\\drawable\\ic_flag_spain.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Downloads\\File Tri\\VoiceChanger\\daemon\\7.4\\com.lutech.baseproject.app-merged_res-6:\\font_lft_etica_light.ttf.flat",
+        "source": "C:\\Users\\Admin\\Downloads\\File Tri\\VoiceChanger\\daemon\\7.4\\com.lutech.baseproject.app-main-8:\\font\\lft_etica_light.ttf"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Downloads\\File Tri\\VoiceChanger\\daemon\\7.4\\com.lutech.baseproject.app-merged_res-6:\\layout_dialog_rateus.xml.flat",
+        "source": "C:\\Users\\Admin\\Downloads\\File Tri\\VoiceChanger\\daemon\\7.4\\com.lutech.baseproject.app-main-8:\\layout\\dialog_rateus.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Downloads\\File Tri\\VoiceChanger\\daemon\\7.4\\com.lutech.baseproject.app-merged_res-6:\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Admin\\Downloads\\File Tri\\VoiceChanger\\daemon\\7.4\\com.lutech.baseproject.app-pngs-1:\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Downloads\\File Tri\\VoiceChanger\\daemon\\7.4\\com.lutech.baseproject.app-merged_res-6:\\drawable_gnt_outline_shape.xml.flat",
+        "source": "C:\\Users\\Admin\\Downloads\\File Tri\\VoiceChanger\\daemon\\7.4\\com.lutech.baseproject.app-main-8:\\drawable\\gnt_outline_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Downloads\\File Tri\\VoiceChanger\\daemon\\7.4\\com.lutech.baseproject.app-merged_res-6:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Admin\\Downloads\\File Tri\\VoiceChanger\\daemon\\7.4\\com.lutech.baseproject.app-main-8:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Downloads\\File Tri\\VoiceChanger\\daemon\\7.4\\com.lutech.baseproject.app-merged_res-6:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Admin\\Downloads\\File Tri\\VoiceChanger\\daemon\\7.4\\com.lutech.baseproject.app-main-8:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Downloads\\File Tri\\VoiceChanger\\daemon\\7.4\\com.lutech.baseproject.app-merged_res-6:\\raw_anim_welcome_back.json.flat",
+        "source": "C:\\Users\\Admin\\Downloads\\File Tri\\VoiceChanger\\daemon\\7.4\\com.lutech.baseproject.app-main-8:\\raw\\anim_welcome_back.json"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Downloads\\File Tri\\VoiceChanger\\daemon\\7.4\\com.lutech.baseproject.app-merged_res-6:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Admin\\Downloads\\File Tri\\VoiceChanger\\daemon\\7.4\\com.lutech.baseproject.app-main-8:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Downloads\\File Tri\\VoiceChanger\\daemon\\7.4\\com.lutech.baseproject.app-merged_res-6:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\Admin\\Downloads\\File Tri\\VoiceChanger\\daemon\\7.4\\com.lutech.baseproject.app-main-8:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Downloads\\File Tri\\VoiceChanger\\daemon\\7.4\\com.lutech.baseproject.app-merged_res-6:\\font_lft_etica_regular.ttf.flat",
+        "source": "C:\\Users\\Admin\\Downloads\\File Tri\\VoiceChanger\\daemon\\7.4\\com.lutech.baseproject.app-main-8:\\font\\lft_etica_regular.ttf"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Downloads\\File Tri\\VoiceChanger\\daemon\\7.4\\com.lutech.baseproject.app-merged_res-6:\\layout_gnt_medium_template_view.xml.flat",
+        "source": "C:\\Users\\Admin\\Downloads\\File Tri\\VoiceChanger\\daemon\\7.4\\com.lutech.baseproject.app-main-8:\\layout\\gnt_medium_template_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Downloads\\File Tri\\VoiceChanger\\daemon\\7.4\\com.lutech.baseproject.app-merged_res-6:\\drawable_ic_flag_chinese.png.flat",
+        "source": "C:\\Users\\Admin\\Downloads\\File Tri\\VoiceChanger\\daemon\\7.4\\com.lutech.baseproject.app-main-8:\\drawable\\ic_flag_chinese.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Downloads\\File Tri\\VoiceChanger\\daemon\\7.4\\com.lutech.baseproject.app-merged_res-6:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Admin\\Downloads\\File Tri\\VoiceChanger\\daemon\\7.4\\com.lutech.baseproject.app-main-8:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Downloads\\File Tri\\VoiceChanger\\daemon\\7.4\\com.lutech.baseproject.app-merged_res-6:\\drawable_bg_text_ad.xml.flat",
+        "source": "C:\\Users\\Admin\\Downloads\\File Tri\\VoiceChanger\\daemon\\7.4\\com.lutech.baseproject.app-main-8:\\drawable\\bg_text_ad.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Downloads\\File Tri\\VoiceChanger\\daemon\\7.4\\com.lutech.baseproject.app-merged_res-6:\\layout_notification.xml.flat",
+        "source": "C:\\Users\\Admin\\Downloads\\File Tri\\VoiceChanger\\daemon\\7.4\\com.lutech.baseproject.app-main-8:\\layout\\notification.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Downloads\\File Tri\\VoiceChanger\\daemon\\7.4\\com.lutech.baseproject.app-merged_res-6:\\layout_activity_splash.xml.flat",
+        "source": "C:\\Users\\Admin\\Downloads\\File Tri\\VoiceChanger\\daemon\\7.4\\com.lutech.baseproject.app-main-8:\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Downloads\\File Tri\\VoiceChanger\\daemon\\7.4\\com.lutech.baseproject.app-merged_res-6:\\layout_layout_item_language.xml.flat",
+        "source": "C:\\Users\\Admin\\Downloads\\File Tri\\VoiceChanger\\daemon\\7.4\\com.lutech.baseproject.app-main-8:\\layout\\layout_item_language.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Downloads\\File Tri\\VoiceChanger\\daemon\\7.4\\com.lutech.baseproject.app-merged_res-6:\\drawable_ic_flag_africa.png.flat",
+        "source": "C:\\Users\\Admin\\Downloads\\File Tri\\VoiceChanger\\daemon\\7.4\\com.lutech.baseproject.app-main-8:\\drawable\\ic_flag_africa.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Downloads\\File Tri\\VoiceChanger\\daemon\\7.4\\com.lutech.baseproject.app-merged_res-6:\\font_sf_pro_rounded.ttf.flat",
+        "source": "C:\\Users\\Admin\\Downloads\\File Tri\\VoiceChanger\\daemon\\7.4\\com.lutech.baseproject.app-main-8:\\font\\sf_pro_rounded.ttf"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Downloads\\File Tri\\VoiceChanger\\daemon\\7.4\\com.lutech.baseproject.app-merged_res-6:\\drawable_ic_flag_portugal.png.flat",
+        "source": "C:\\Users\\Admin\\Downloads\\File Tri\\VoiceChanger\\daemon\\7.4\\com.lutech.baseproject.app-main-8:\\drawable\\ic_flag_portugal.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Downloads\\File Tri\\VoiceChanger\\daemon\\7.4\\com.lutech.baseproject.app-merged_res-6:\\xml_remote_config_defaults.xml.flat",
+        "source": "C:\\Users\\Admin\\Downloads\\File Tri\\VoiceChanger\\daemon\\7.4\\com.lutech.baseproject.app-main-8:\\xml\\remote_config_defaults.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Downloads\\File Tri\\VoiceChanger\\daemon\\7.4\\com.lutech.baseproject.app-merged_res-6:\\layout_activity_welcome_back.xml.flat",
+        "source": "C:\\Users\\Admin\\Downloads\\File Tri\\VoiceChanger\\daemon\\7.4\\com.lutech.baseproject.app-main-8:\\layout\\activity_welcome_back.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Downloads\\File Tri\\VoiceChanger\\daemon\\7.4\\com.lutech.baseproject.app-merged_res-6:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Admin\\Downloads\\File Tri\\VoiceChanger\\daemon\\7.4\\com.lutech.baseproject.app-main-8:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Downloads\\File Tri\\VoiceChanger\\daemon\\7.4\\com.lutech.baseproject.app-merged_res-6:\\drawable_icon_flag_hausa.webp.flat",
+        "source": "C:\\Users\\Admin\\Downloads\\File Tri\\VoiceChanger\\daemon\\7.4\\com.lutech.baseproject.app-main-8:\\drawable\\icon_flag_hausa.webp"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Downloads\\File Tri\\VoiceChanger\\daemon\\7.4\\com.lutech.baseproject.app-merged_res-6:\\drawable_ic_flag_france.png.flat",
+        "source": "C:\\Users\\Admin\\Downloads\\File Tri\\VoiceChanger\\daemon\\7.4\\com.lutech.baseproject.app-main-8:\\drawable\\ic_flag_france.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Downloads\\File Tri\\VoiceChanger\\daemon\\7.4\\com.lutech.baseproject.app-merged_res-6:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Admin\\Downloads\\File Tri\\VoiceChanger\\daemon\\7.4\\com.lutech.baseproject.app-main-8:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Downloads\\File Tri\\VoiceChanger\\daemon\\7.4\\com.lutech.baseproject.app-merged_res-6:\\drawable_corner_8.xml.flat",
+        "source": "C:\\Users\\Admin\\Downloads\\File Tri\\VoiceChanger\\daemon\\7.4\\com.lutech.baseproject.app-main-8:\\drawable\\corner_8.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Downloads\\File Tri\\VoiceChanger\\daemon\\7.4\\com.lutech.baseproject.app-merged_res-6:\\layout_layout_test.xml.flat",
+        "source": "C:\\Users\\Admin\\Downloads\\File Tri\\VoiceChanger\\daemon\\7.4\\com.lutech.baseproject.app-main-8:\\layout\\layout_test.xml"
+    }
+]

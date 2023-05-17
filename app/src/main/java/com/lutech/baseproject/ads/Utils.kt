@@ -278,12 +278,6 @@ object Utils {
 
     }
 
-    fun hasMicrophone(context: Context): Boolean {
-        val pmanager: PackageManager = context.getPackageManager()
-        return pmanager.hasSystemFeature(
-            PackageManager.FEATURE_MICROPHONE
-        )
-    }
 
     var filter =
         InputFilter { source, start, end, dest, dstart, dend, ->
@@ -299,7 +293,7 @@ object Utils {
             intent.putExtra(Intent.EXTRA_SUBJECT, context.getString(R.string.txt_share_app))
             intent.putExtra(
                 Intent.EXTRA_TEXT,
-                "https://play.google.com/store/apps/details?id=com.lutech.voicechanger"
+                "https://play.google.com/store/apps/details?id=${context.packageName}"
             )
             context.startActivity(Intent.createChooser(intent, "choose one"))
         } catch (e: Exception) {

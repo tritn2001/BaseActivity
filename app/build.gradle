@@ -4,17 +4,17 @@ plugins {
     id 'org.jetbrains.kotlin.android'
     id 'org.jetbrains.kotlin.android.extensions'
     id 'kotlin-kapt'
-    id 'com.google.gms.google-services'
+//    id 'com.google.gms.google-services'
 }
 
 android {
     namespace 'com.lutech.baseproject'
-    compileSdk 32
+    compileSdk 33
 
     defaultConfig {
         applicationId "com.lutech.baseproject"
         minSdk 21
-        targetSdk 32
+        targetSdk 33
         versionCode 1
         versionName "1.0"
 
@@ -110,6 +110,21 @@ dependencies {
     implementation 'com.github.Spikeysanju:MotionToast:1.4'
 
     implementation 'com.github.ybq:Android-SpinKit:1.4.0'
+    // Retrofit
+    implementation 'com.squareup.retrofit2:retrofit:2.9.0'
+
+    // Okhttp3 for the POST requests
+    implementation 'com.squareup.okhttp3:okhttp:4.10.0'
+
+    implementation("com.squareup.okhttp3:logging-interceptor:4.11.0")
+
+    // Gson to convert raw JSON to pretty JSON
+    implementation 'com.google.code.gson:gson:2.8.9'
+
+    implementation 'com.squareup.retrofit2:converter-gson:2.5.0'
+
+
+
 
 
 }
